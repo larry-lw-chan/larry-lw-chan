@@ -10,7 +10,7 @@ Ruby on Rails, Django
 
 I also do enjoy getting punished by Rust and it's borrow checker from time to time.  =)
 
-## Find me around the web 🌎:
+## You can find me around the web 🌎:
 - Expressing coding tidbits, ideas, and the occasional frustration on [LarryCanCode.com](https://larrycancode.com) 💩
 - Tinkering with frontend experiments on [Codepen](https://codepen.io/larrylwchan) 🏓
 - Slacking off at [LinkedIn]([https://codepen.io/larrylwchan](https://www.linkedin.com/in/larrylwchan/)) 😴
