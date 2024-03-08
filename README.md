@@ -7,4 +7,4 @@ I also do enjoy getting punished by Rust and it's borrow checker from time to ti
 
 ## Find me around the web 🌎:
 - Tinkering with frontend experiments on <a href="https://codepen.io/larrylwchan"> Codepen</a> 🏓
-- Doing nothing at <a href="https://www.linkedin.com/in/larrylwchan/">LinkedIn</a> 💼
+- Slacking off at <a href="https://www.linkedin.com/in/larrylwchan/">LinkedIn</a> 💼
