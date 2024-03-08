@@ -2,12 +2,15 @@
 
 I'm a full stack web engineer based in Atlanta.  Currently, I am working on an open source social networking app that targeted to be performant, minimal, and easy to host.
 
-Some technologies I enjoy working with include: 
+The tech stack I use include: 
 React, Astro (Jamstack), Typescript, Python, Go, and C#.  
+
+Frameworks I've used in the past includes:
+Ruby on Rails, Django
 
 I also do enjoy getting punished by Rust and it's borrow checker from time to time.  =)
 
 ## Find me around the web 🌎:
-- Expressing coding tidbits and ideas (mostly frustrations) on [LarryCanCode.com](https://larrycancode.com)
+- Expressing coding tidbits, ideas, and the occasional frustration on [LarryCanCode.com](https://larrycancode.com) 💩
 - Tinkering with frontend experiments on [Codepen](https://codepen.io/larrylwchan) 🏓
-- Slacking off at <a href="https://www.linkedin.com/in/larrylwchan/">LinkedIn</a> 💼
+- Slacking off at [LinkedIn]([https://codepen.io/larrylwchan](https://www.linkedin.com/in/larrylwchan/)) 😴
