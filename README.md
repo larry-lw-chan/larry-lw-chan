@@ -8,6 +8,6 @@ React, Astro (Jamstack), Typescript, Python, Go, and C#.
 I also do enjoy getting punished by Rust and it's borrow checker from time to time.  =)
 
 ## Find me around the web 🌎:
-- Expressing coding tidbits and ideas (mostly frustrations) on <a href="https://codepen.io/larrylwchan">LarryCanCode.com</a> 🏓
+- Expressing coding tidbits and ideas (mostly frustrations) on <a href="https://larrycancode.com">LarryCanCode.com</a> 🏓
 - Tinkering with frontend experiments on <a href="https://codepen.io/larrylwchan"> Codepen</a> 🏓
 - Slacking off at <a href="https://www.linkedin.com/in/larrylwchan/">LinkedIn</a> 💼
