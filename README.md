@@ -1,4 +1,4 @@
-# Hi, I'm Larry - Creator of GoTi 👋🏾 👩🏾‍💻
+# Hi, I'm Larry - Creator of GoTi 😃
 
 I'm a full stack web engineer based in Atlanta.  Currently, I am working on GoTi, an open source social networking app that targeted to be performant, minimal, and easy to host.
 
