@@ -2,7 +2,7 @@
 
 I'm a full stack web engineer based in Atlanta.  Currently, I am working on GoTi, a compiled, easy to run social networking app that targeted to be performant, minimal, and easy to host.
 
-The tech stack I use include: 
+The tech stack I generally use include: 
 React, Astro (Jamstack), Typescript, Python, Go, and C#.  
 
 Frameworks I've used in the past includes:
