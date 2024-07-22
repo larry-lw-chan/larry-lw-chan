@@ -3,12 +3,10 @@
 I'm a full stack web engineer based in Atlanta.  Currently, I am working on GoTi, a compiled, easy to run social networking app that targeted to be performant, minimal, and easy to host.
 
 The tech stack I generally use include: 
-React, Astro (Jamstack), Typescript, Python, and Go
+React, Astro (Jamstack), Typescript, Python, and Go.  Also certified in C# and Java.
 
-Also certified in C# and Java.  
-
-Fullstack Frameworks I've used in the past includes:
-Django and Ruby on Rails 
+Web Frameworks I've used in the past also includes:
+Django, Ruby on Rails, Wordpress, and Drupal
 
 Recently been studying Machine Learning and now I'm a Google Certified Tensorflow Developer
 
